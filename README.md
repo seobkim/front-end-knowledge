@@ -26,8 +26,8 @@ HTML에서 서버 혹은 스크립트상에서 받아온 데이터를 화면상�
 
 ### 과도한 Props Drilling을 피하는법
 #### 크게 2가지의 방법
-- 1) 전역 상태 관리 라이브러리 사용(Redux,Mobx,Recoil)
-- 2) Children
+- 1). 전역 상태 관리 라이브러리 사용(Redux,Mobx,Recoil)
+- 2). Children
 
 ### Redux
 
